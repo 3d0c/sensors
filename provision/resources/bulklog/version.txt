@@ -1,0 +1,1 @@
+{ "package": "bulklog", "buildInfo": {"user": "vagrant", "machine": "contiki", "time":  "Mon Aug  3 16:02:18 MSK 2015"}, "git": { "sha1": "5eb7970a89dc25bf0bfce525f31a9acf669da882"}}
